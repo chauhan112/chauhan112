@@ -11,4 +11,10 @@ Welcome to my GitHub! I build tools and systems to make development and data int
 - **Eclectic Problem Solving**: Utilities for AI, image processing, and more.
 - **Cross-Tech Integration**: Support for C++, JavaScript, and Java tools.
 
-Explore my repositories to see how I work and grow as a developer!
+### My Tools:
+- portfolio https://chauhan112.github.io/chauhan112/
+- domain ops logger https://chauhan112.github.io/DomainOpsLogger/
+- tool kit https://chauhan112.github.io/MyTools/
+- github file searching https://chauhan112.github.io/MyTools/#file-search/
+- simple file explorer (u must run the backend) https://chauhan112.github.io/FileExplorer/
+- arc visualizer (check my tool kit)
